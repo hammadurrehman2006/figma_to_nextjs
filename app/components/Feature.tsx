@@ -5,7 +5,7 @@ function Feature() {
   return (
     <div>
 <div id="feature" className="bg-background mx-auto px-6 sm:px-10 md:px-20 lg:px-40 xl:px-48 text-center">
-  <h1 className={`mt-12 text-black font-medium ${heebo.className} text-xl`}>Featured Works</h1>
+  <h1 className={`mt-12 text-black lg:text-left font-medium ${heebo.className} text-xl`}>Featured Works</h1>
 
   <div className="mt-6 flex flex-col lg:flex-row gap-7 text-black items-center lg:items-start justify-center lg:justify-start">
     <Image 
