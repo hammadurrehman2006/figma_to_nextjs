@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Figma to Next.js Portfolio Website  
 
-First, run the development server:
+This project was an assignment by **Sir Bilal Fareed** at **GIAIC (Governor Sindh Initiative for Cloud-Applied Generative AI)**. The task was to convert a Figma design into a fully functional portfolio website using **Next.js**, showcasing essential development and design skills.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Project Overview  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The portfolio website highlights:  
+- Responsive layouts for different devices.  
+- Clean, reusable, and modular components.  
+- Fast performance with **Next.js** and optimized assets.  
+- Pixel-perfect implementation of the given Figma design.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🚀 Features  
+- Modern UI and sleek design.  
+- Fully responsive across all devices.  
+- Easy navigation for visitors.  
+- Interactive elements for a better user experience.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Live Demo  
+Check out the live version of the portfolio website: [Live URL](   )  
 
-## Learn More
+## 🎨 Design Reference  
+The original Figma design can be viewed here: [Figma Design Link](https://www.figma.com/design/4rWP2iWijt9Unky39tzLyD/My-First-Website?node-id=0-1&node-type=canvas&t=a5ensvFrjHBiTcnJ-0)  
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack  
+- **Next.js 15** for server-side rendering and routing.  
+- **Tailwind CSS** for styling and responsiveness.  
+- **DaisyUI** for prebuilt UI components.  
+- **React Components** for a modular and reusable approach.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Acknowledgments  
+Special thanks to **Sir Bilal Fareed** for assigning this project and guiding us through the development process. This assignment was a great way to bridge the gap between design and development.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 How to Run Locally  
+1. Clone this repository:  
+   ```bash  
+   git clone <repo-url>  
+   ```  
+2. Install dependencies:  
+   ```bash  
+   npm install  
+   ```  
+3. Start the development server:  
+   ```bash  
+   npm run dev  
+   ```  
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.  
 
-## Deploy on Vercel
+## 🔗 Let's Connect  
+For any queries or feedback, feel free to reach out!  
+📧 **hammadurrehman7707@gmail.com**  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Notes:  
+- Replace `#` in **Live URL** and **Figma Design Link** with actual links.  
+- Add your repository URL in the `git clone` command.  
