@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { Inter, Heebo } from "next/font/google";
+import {Heebo} from "next/font/google";
 import Link from "next/link";
 const heebo = Heebo({ subsets: ["latin"] });
 function Hero() {
